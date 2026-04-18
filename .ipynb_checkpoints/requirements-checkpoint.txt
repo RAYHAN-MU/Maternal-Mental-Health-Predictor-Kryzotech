@@ -1,0 +1,22 @@
+# Core Web Framework
+flask>=3.0.0
+flask-cors>=4.0.0
+
+# Data Manipulation and Analysis
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Machine Learning
+scikit-learn>=1.5.0
+xgboost>=2.0.0
+imbalanced-learn>=0.12.0
+
+# Model Persistence
+joblib>=1.4.0
+
+# Utilities
+python-dotenv>=1.0.0
+
+# Visualization
+matplotlib
+seaborn
